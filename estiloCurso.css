@@ -1,39 +1,14 @@
 
-*
-    {
-        padding: 1em;
-        margin: 1em;
-        line-height: 1.5;
-    }
-
 html
     {
-        background-color: aqua;
-
-    }
-
-header
-    {
-        background-color: black;
-    }
-
-nav
-    {
-        background-color: green;
+        margin: 1em;
+        padding 1em;
     }
 
 
-body
-    {
-        background-color: blue;
-    }
 
-h1
-    {
-        background-color: blueviolet;
-    }
 
-ul
+.Campo:focus
     {
-        background-color: greenyellow
+        background-color: red;
     }
